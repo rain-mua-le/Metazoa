@@ -12,10 +12,13 @@ Animals are hunted until they become endangered. But even then, humans still def
 # Contributors
 
 ## rain-mua-le
-[Github](https://github.com/rain-mua-le)
+:octocat: [Github](https://github.com/rain-mua-le)
 
 ## iridazzle
-[Github](https://github.com/iridazzle)
-[Website](https://iridazzle.monster/)
-[Twitter](https://twitter.com/iridazzle)
-[Instagram](https://www.instagram.com/iridazzle/)
+:octocat: [Github](https://github.com/iridazzle)
+
+:trollface: [Website](https://iridazzle.monster/)
+
+:bird: [Twitter](https://twitter.com/iridazzle)
+
+:camera: [Instagram](https://www.instagram.com/iridazzle/)
